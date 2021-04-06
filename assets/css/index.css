@@ -1,0 +1,22 @@
+#main_menu {
+  font-size: 52px;
+  font-weight: bold;
+}
+
+ul {
+    list-style: none;
+}
+
+.link1 {
+  text-decoration: none;
+  background-repeat: repeat-x;
+  background-position: 0 100%;
+  padding-bottom: 2px;
+  background-size: 4px 1px;
+  background-image: -webkit-linear-gradient(left, rgba(4, 85, 119, .3) 2px, transparent 2px);
+}
+
+.link2 {
+  text-decoration: none;
+  border-bottom: 1px dashed #000080;
+}
