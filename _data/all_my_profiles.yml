@@ -1,0 +1,100 @@
+profiles:
+  - label: "WhatsApp"
+    icon: "fa-whatsapp"
+    url: "https://wa.me/79885851900"
+    tags:
+      - messengers
+  - label: "Telegram"
+    icon: "fa-telegram"
+    url: "https://t.me/serikoff"
+    tags:
+      - messengers
+  - label: "Email"
+    icon: "fas fa-fw fa-at"
+    url: "mailto:pavel.p.serikov@gmail.com"
+    tags:
+      - email
+  - label: "Profi.ru"
+    icon: "fa-black-tie"
+    url: "https://profi.ru/profile/SerikovPP/"
+    tags:
+      - CV
+      - IT
+  - label: "Stackoverflow"
+    icon: "fa-stack-overflow"
+    url: "https://stackoverflow.com/users/1441592/"
+    tags:
+      - CV
+      - IT
+  - label: "GitHub"
+    icon: "fa-github"
+    url: "https://github.com/pavelsr"
+    tags:
+      - CV
+      - IT
+  - label: "VK"
+    icon: "fa-vk"
+    url: "https://vk.com/pavelsr"
+    tags:
+      - social
+  - label: "Facebook"
+    icon: "fa-facebook"
+    url: "https://www.facebook.com/pavel.serikov"
+    tags:
+      - social
+  - label: "BlaBlaCar"
+    icon: "fa-car"
+    url: "https://www.blablacar.ru/user/show/6e543c80-8ba0-11e4-a000-000496bae283"
+    tags:
+      - travel, social
+  - label: "CouchSurfing"
+    icon: "fa-couch"
+    url: "https://www.couchsurfing.com/people/ideashunter"
+    tags:
+      - travel
+  - label: "CouchSurfing"
+    icon: "fa-couch"
+    url: "https://www.couchsurfing.com/people/ideashunter"
+    tags:
+      - travel
+  - label: "AirBnb"
+    icon: "fa-airbnb"
+    need_auth_for_view: 1
+    url: "https://www.airbnb.ru/users/show/25600368"
+    tags:
+      - travel
+  - label: "Twitter"
+    icon: "fa-twitter"
+    need_auth_for_view: 1
+    url: "https://twitter.com/makezbs"
+    tags:
+      - social
+  - label: "LinkedIN"
+    icon: "fa-linkedin"
+    url: "https://linkedin.com/in/serikov"
+    tags:
+      - social
+  - label: "Habr"
+    url: "https://habr.com/ru/users/carpediem/"
+    tags:
+      - IT
+      - press
+  - label: "Habr Q&A"
+    url: "https://qna.habr.com/user/CarpeDiem"
+    tags:
+      - IT
+      - Q&A
+  - label: "Habr Career"
+    url: "https://career.habr.com/paulserikov"
+    tags:
+      - IT
+      - career
+  - label: "LeaderID"
+    url: "https://leader-id.ru/users/113219"
+    tags:
+      - GR
+  - label: "Tbankrot"
+    need_auth_for_view: 1
+    url: "https://tbankrot.ru/analitika?bidder=85031"
+    tags:
+      - GR
