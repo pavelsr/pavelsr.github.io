@@ -1,5 +1,5 @@
 ---
-title: "Мои проекты"
+title: "Мои IT проекты"
 permalink: /it-portfolio/
 author_profile: true
 ---
